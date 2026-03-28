@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vaishnavi Sen👋
 
-<!--
-**senvaishnavi741-hash/senvaishnavi741-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Cloud Computing) Student  
+🏫 VIT Bhopal University  
+📅 Expected Graduation: 2029  
 
-Here are some ideas to get you started:
+💡 I am passionate about learning AI, Machine Learning, Cloud Computing, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning:
+- Python
+- Git & GitHub
+- AI/ML Basics
+
+📌 Goal:
+To become a skilled developer and achieve top placements.
